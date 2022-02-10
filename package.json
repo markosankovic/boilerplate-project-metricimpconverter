@@ -6,7 +6,7 @@
 	"scripts": {
 		"start": "node server.js",
 		"test": "mocha ./tests/ --ui tdd",
-		"deploy": "git push heroku master"
+		"deploy": "git push heroku gomix"
 	},
 	"dependencies": {
 		"body-parser": "^1.19.0",
